@@ -40,7 +40,7 @@ Every dependency is installed into a single, central location. Once. Contrast th
 Julia provides asynchronous I/O, metaprogramming, debugging, logging, profiling, a package manager, and more. One can build entire Applications and Microservices in Julia.
 
 ### Machine learning ecosystem
-Most important, from the perspective as a datascientist: Julia is developped by MIT, and adopted by a lot of universities. The ecosystem for data science is wide and very solid. Consider that Julia is being used by NASA and the Brazilian INPE for space missions.
+Most important, from the perspective as a datascientist: Julia is developped by MIT, and adopted by a lot of universities. The ecosystem for data science is broad and very solid. Consider that Julia is being used by NASA and the Brazilian INPE for space missions.
 
 The development of programming languages has come a long way since the development of Python. But some languages (eg, Rust) just don't have an ecosystem for datascience and machinelearning. Because you dont want to invent the wheel over and over again, you do need a scientific community that builds pacakges on top of the base language.
 
