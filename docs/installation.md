@@ -1,5 +1,5 @@
 # Assumptions
-This tutorial assumes you already have an IDE like [[VScode | https://code.visualstudio.com/]] installed. If you don't have an IDE, you can use the Julia REPL, which is a command-line interface to Julia. However, this makes it more difficult to run scripts line-by-line, which is a nice addition from VScode to just the REPL. More about the REPL can be found [[REPL.md | here]] in the `REPL.md` file.
+This tutorial assumes you already have an IDE like [[VScode | https://code.visualstudio.com/]] installed. If you don't have an IDE, you can use the Julia REPL, which is a command-line interface to Julia. However, this makes it more difficult to run scripts line-by-line, which is a nice addition from VScode to just the REPL. More about the REPL can be found [REPL.md](here) in the `REPL.md` file.
 
 It also assumes you know what a command line is. VScode will give you one. Please avoid the "windows powershell" and use either bash or zsh. If you dont have a terminal, VScode will provide you one. It is also possible to install https://gitforwindows.org/ if you are somehow lured into using a windows OS.
 
