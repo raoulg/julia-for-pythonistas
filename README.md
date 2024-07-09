@@ -45,7 +45,7 @@ Most important, from the perspective as a datascientist: Julia is developped by 
 The development of programming languages has come a long way since the development of Python. But some languages (eg, Rust) just don't have an ecosystem for datascience and machinelearning. Because you dont want to invent the wheel over and over again, you do need a scientific community that builds pacakges on top of the base language.
 
 ## 4. Dynamically typed and Composable
-Julia is dynamically typed, feels like a scripting language, and has good support for interactive use, but can also optionally be separately compiled.
+Julia is dynamically typed, feels like a scripting language, and has good support for interactive use, so it's both usefull for rapid prototyping and building solid, typed code.
 
 Julia uses multiple dispatch as a paradigm, making it easy to express many object-oriented and functional programming patterns. The talk on the [Unreasonable Effectiveness of Multiple Dispatch](https://www.youtube.com/live/kc9HwsxE1OY) explains why it works so well, but we will dive into what this is, how it works and why it is usefull during this crash course.
 
