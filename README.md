@@ -29,7 +29,7 @@ Julia is dynamically typed, feels like a scripting language, and has good suppor
 Julia uses multiple dispatch as a paradigm, making it easy to express many object-oriented and functional programming patterns. The talk on the [Unreasonable Effectiveness of Multiple Dispatch](https://www.youtube.com/live/kc9HwsxE1OY) explains why it works so well, but we will dive into what this is, how it works and why it is usefull during this crash course.
 
 # Read more
-1. [[docs/installation.md | installation]]
-2. [[docs/REPL.md | REPL]]
-3. [[docs/puzzle.md | Puzzle]]
+1. [installation](docs/installation.md)
+2. [REPL](docs/REPL.md)
+3. [Puzzle](docs/puzzle.md)
 
