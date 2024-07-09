@@ -19,7 +19,7 @@ In short, this means you wont need:
 - get packages like [DataFrames](https://dataframes.juliadata.org/stable/), which is about [10x as fast](https://h2oai.github.io/db-benchmark/) as pandas
 
 ## 1. Fast (and energy efficient)
-Julia was designed for high performance. Julia programs automatically compile to efficient native code via LLVM, and support multiple platforms.
+Julia was designed for high performance. Julia programs automatically compile to efficient native code via LLVM, and support multiple platforms. Try to spot python and julia in the graph below.
 
 ![](img/Julia%20Benchmarks.svg)
 
