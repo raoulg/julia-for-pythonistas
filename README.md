@@ -14,7 +14,9 @@ Considering we will be teaching students, let's estimate they will be programmin
 
 ## 2. Reproducible environments
 Julia handles environments quite different, compared to what you might be used to in Python.
+
 ![](img/Python%20Environment.png)
+
 Every dependency is installed into a single, central location. Once. Contrast this to Python where every environment has it's own copy of the same package...
 
 ## 3. General purpose
