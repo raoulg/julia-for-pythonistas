@@ -16,6 +16,7 @@ In short, this means you wont need:
 - numpy to handle arrays fast (Julia is actually designed to handle numbers)
 - pydantic to handle data validation
 - any package that has a C or C++ backend; anything is written in Julia!
+- get packages like [DataFrames](https://dataframes.juliadata.org/stable/), which is about [10x as fast](https://h2oai.github.io/db-benchmark/) as pandas
 
 ## 1. Fast (and energy efficient)
 Julia was designed for high performance. Julia programs automatically compile to efficient native code via LLVM, and support multiple platforms.
