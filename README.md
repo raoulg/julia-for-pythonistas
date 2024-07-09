@@ -6,6 +6,7 @@ Julia was designed for high performance. Julia programs automatically compile to
 ![](img/Julia%20Benchmarks.svg)
 
 This also translates to energy efficiency; when taking C as the benchmark, Julia scores 1.8, while Python is among one of the least efficient languages with a score of 75.88. (full benchmarks, see [here](https://sites.google.com/view/energy-efficiency-languages)
+
 ![](img/energy.png)
 
 Considering we will be teaching students, let's estimate they will be programming between 4 (2^2) and 32 (2^5) hours a week, a reasonable estimate would be that on average they will program 2^3.5 = 11 hours a week. This is a significant amount of programming that will be done every year by our students (11 hours *42 weeks * 30 students = 14000 hours per year for the next 10-30 consecutive years for every class we teach). Reducing energy-efficiency by a factor of almost 40 will have a significant impact on the environment.
