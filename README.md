@@ -1,6 +1,6 @@
 # Intro
 
-The Julia language is recently new; the website https://julialang.org/ gives a short overview of Julia:
+The Julia language is a modern language; the website https://julialang.org/ gives a short overview of Julia:
 
 While Python was
 1) never intended to work with matrices of numbers (ironically, it is the number one language to handle exactly that...)
