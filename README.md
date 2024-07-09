@@ -3,6 +3,7 @@
 The Julia language is recently new; the website https://julialang.org/ gives a short overview of Julia:
 ## 1. Fast (and energy efficient)
 Julia was designed for high performance. Julia programs automatically compile to efficient native code via LLVM, and support multiple platforms.
+
 ![](img/Julia%20Benchmarks.svg)
 
 This also translates to energy efficiency; when taking C as the benchmark, Julia scores 1.8, while Python is among one of the least efficient languages with a score of 75.88. (full benchmarks, see [here](https://sites.google.com/view/energy-efficiency-languages)
