@@ -23,7 +23,7 @@ Julia was designed for high performance. Julia programs automatically compile to
 
 ![](img/Julia%20Benchmarks.svg)
 
-This also translates to energy efficiency; when taking C as the benchmark, Julia scores 1.8, while Python is among one of the least efficient languages with a score of 75.88. (full benchmarks, see [here](https://sites.google.com/view/energy-efficiency-languages)
+This also translates to energy efficiency; when taking C as the benchmark, Julia scores 1.8, while Python is among one of the least efficient languages with a score of 75.88. (full benchmarks, see [here](https://sites.google.com/view/energy-efficiency-languages))
 
 ![](img/energy.png)
 
