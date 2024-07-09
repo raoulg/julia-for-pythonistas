@@ -1,6 +1,22 @@
 # Intro
 
 The Julia language is recently new; the website https://julialang.org/ gives a short overview of Julia:
+
+While Python was
+1) never intended to work with matrices of numbers (ironically, it is the number one language to handle exactly that...)
+2) can be considered mainly a frontend for C or C++ code
+3) has a lot of design flaws that need to be "fixed" by numerous packages
+4) has a community that never decides on a single way to do things,
+
+![](img/python.png)
+
+Julia was designed from the ground up to be a high-performance language for technical computing.
+In short, this means you wont need:
+- pip, venv, pyenv, conda, pdm, poetry or rye to manage your environments
+- numpy to handle arrays fast (Julia is actually designed to handle numbers)
+- pydantic to handle data validation
+- any package that has a C or C++ backend; anything is written in Julia!
+
 ## 1. Fast (and energy efficient)
 Julia was designed for high performance. Julia programs automatically compile to efficient native code via LLVM, and support multiple platforms.
 
