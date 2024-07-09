@@ -8,7 +8,7 @@ While Python was
 3) has a lot of design flaws that need to be "fixed" by numerous packages
 4) has a community that never decides on a single way to do things,
 
-![](img/python.png)
+![](img/python.PNG)
 
 Julia was designed from the ground up to be a high-performance language for technical computing.
 In short, this means you wont need:
